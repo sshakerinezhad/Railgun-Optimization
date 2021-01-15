@@ -13,6 +13,8 @@ In the end an accuracy of almost 85%! That's pretty fantastic...
 
 If you're a nerd feel free to look over my python script (but be warned the path variables of any system you run it on need to be configured to run FlexPDE6s directly)
 
+If you're interested in doing so just make sure you have FlexPDE6s or FlexPDE7 installed and connect the folder the application is in to a Path variable in your control panel.
+
 Otherwise the report can let you know all about the details.
 
 
